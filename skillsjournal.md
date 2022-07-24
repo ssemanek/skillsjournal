@@ -1,2 +1,2 @@
-#Skills Journal
-##My Skills
+# Skills Journal
+## My Skills
